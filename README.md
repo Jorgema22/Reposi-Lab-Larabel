@@ -253,12 +253,6 @@ npm run dev
 
 ---
 
-## 📅 Fecha de Ejecución
-
-**9 de abril de 2026**
-
----
-
 ## 👨‍🎓 Datos del Estudiante
 
 <div align="center">
